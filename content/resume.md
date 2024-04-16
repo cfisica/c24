@@ -89,7 +89,7 @@ Nota: Trata-se de uma estimativa, o valor exato depende da cotação do dolar no
 | M.J.A.C.                           | DQUIM        | 1.754,25     |              |
 |:                                   | ------------ | ------------ | ------------ |
 | J.C.M.                             | DEEC         | 1.655,45     | 3.443,40     |
-| ADRIANO FRUTUOSO DA SILVA          | DEEC         | 1.787,95     |              |
+| A.F.S.                             | DEEC         | 1.787,95     |              |
 
 
 ## Planilha 05: Descrição de Despesas de Capital

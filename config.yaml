@@ -1,0 +1,37 @@
+baseURL: https://fluxo24.netlify.app/
+
+languageCode: en-us
+
+title: cct24
+
+theme: hugo-theme-notrack
+
+newContentEditor: nvim
+
+mainSections: blog
+paginate: 4
+params:
+  author: Hugo de Groot
+  blogLatestHeading: Detalhamento das Despesas em 15/04/2024
+  favicon: hugo_grotius.png
+  mainSections: blog
+  nBlogLatest: 4
+  showBlogLatest: yes
+  showTaxonomyLinks: no
+  siteHeading: CCT investimentos
+  social:
+    email: example@example.com
+    github: example
+    keybase: example
+    linkedin: example
+    mastodon: example
+    rss: rss won't use the value you give it so you can put anything here
+taxonomies:
+  categories: categories
+  month: month
+  tags: tags
+  year: year
+
+permalinks:
+  blog: /blog/:year/:month/:slug
+

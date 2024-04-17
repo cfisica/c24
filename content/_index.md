@@ -10,6 +10,6 @@ title: ""
 
 {{<image float="right" width="11em" frame="true" caption="Logo" src="img/hugo-portrait.jpg" >}}
 
-Site dedicado ao planejamento e acompanhamento dos investimentos do CCT,
-periodicamente atualizado.
+Site dedicado ao planejamento e acompanhamento dos investimentos
+do CCT -- periodicamente atualizado.
 

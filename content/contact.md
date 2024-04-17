@@ -1,10 +1,10 @@
 ---
-date: "2020-06-04T23:03:21+02:00"
+date: "2024-04-15"
 menu:
   main:
-    name: Contact
+    name: Contato
     weight: 255
-title: Contact
+title: Contato
 ---
 
 e-mail: cct@ufrr.br

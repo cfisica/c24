@@ -3,7 +3,7 @@ date: "2024-04-15"
 draft: false
 menu:
   main:
-    name: Resumo
+    name: Centro
     weight: 5
 title: Centro de Ciências e Tecnologia
 ---

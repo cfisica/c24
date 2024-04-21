@@ -8,7 +8,7 @@ menu:
 title: ""
 ---
 
-{{<image float="right" width="11em" frame="true" caption="Logo" src="img/hugo-portrait.jpg" >}}
+{{<image float="right" width="11em" frame="true" caption="CCT" src="img/hugo-portrait.jpg" >}}
 
 Site dedicado ao planejamento e acompanhamento dos investimentos
 do CCT -- periodicamente atualizado.

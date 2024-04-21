@@ -1,5 +1,5 @@
 ---
-date: "2024-04-15"
+date: "2024-04-20"
 menu:
   main:
     name: Gallery
@@ -7,17 +7,18 @@ menu:
 title: Gallery
 ---
 
-# Em construção
-
-Serão publicadas imagens do Centro.
+# Imagnes do CCT
 
 {{< gallery-category >}}
-    {{< gallery-photo fn="hugo1.jpg" caption="Clay figure of me" >}}
-    {{< gallery-photo fn="hugo1.jpg" caption="Clay bust of me" >}}
-    {{< gallery-photo fn="hugo1.jpg" caption="Portrait of me as an adult" >}}
-    {{< gallery-photo fn="hugo1.jpg" caption="Portrait of me as a kid" >}}
-    {{< gallery-photo fn="hugo1.jpg" caption="Portrait of me getting screwed over by the Orthodox Calvinists" >}}
+    {{< gallery-photo fn="cct20240421abauap.jpeg" caption="CCT" >}}
+    {{< gallery-photo fn="cct20240421dodrdv.jpeg" caption="CCT" >}}
+    {{< gallery-photo fn="cct20240421grgsgk.jpeg" caption="CCT" >}}
+    {{< gallery-photo fn="cct20240421jqjxjw.jpeg" caption="CCT" >}}
+    {{< gallery-photo fn="cct20240421pkphpf.jpeg" caption="CCT" >}}
+    {{< gallery-photo fn="cct20240421tbtatr.jpeg" caption="CCT" >}}
+    {{< gallery-photo fn="cct20240421vfvgvn.jpeg" caption="CCT" >}}
+    {{< gallery-photo fn="cct20240421zpzuzm.jpeg" caption="CCT" >}}
 {{< /gallery-category >}}
-
 {{< gallery-modal >}}
 {{< gallery-script >}}
+

@@ -7,7 +7,7 @@ menu:
 title: Gallery
 ---
 
-# Imagnes do CCT
+# Imagens do CCT
 
 {{< gallery-category >}}
     {{< gallery-photo fn="cct20240421abauap.jpeg" caption="CCT" >}}

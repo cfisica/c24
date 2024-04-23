@@ -18,7 +18,7 @@ title: Centro de Ciências e Tecnologia
 | Departamento de Matemática               | DMAT  |
 | Departamento de Engenharia Elétrica      | DEE   |
 | Departamento de Engenharia Civil         | DEEC  |
-| Departamento de de Ciência da Computação | DCC   |
+| Departamento de Ciência da Computação    | DCC   |
 | Departamento de Arquitetura e Urbanismo  | DAU   |
 
 

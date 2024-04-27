@@ -9,7 +9,7 @@ title: Orçamento 2024
 ---
 
 {{< container >}}
-    {{% resume-section title="27/04/2024" %}}
+    {{% resume-section title="Atualização 27/04/2024" %}}
  
 
 

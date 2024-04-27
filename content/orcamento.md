@@ -1,5 +1,5 @@
 ---
-date: "2024-04-25"
+date: "2024-04-27"
 draft: false
 menu:
   main:
@@ -9,7 +9,7 @@ title: Orçamento 2024
 ---
 
 {{< container >}}
-    {{% resume-section title="25/04/2024" %}}
+    {{% resume-section title="27/04/2024" %}}
  
 
 
@@ -39,8 +39,8 @@ title: Orçamento 2024
 
 ## Planilha 02: Movimentação de Crédito
 
-|Departamento   |Origem           |Destino        |Novo Crédito   |Solicitante    |
-|:--------------|:--------------  |:--------------|:--------------|:--------------|
+|Departamento   |Origem         |Destino        |Novo Crédito   |Solicitante    |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
 |DEEC|Passagens Nacional: 24500,00|Diárias Internacional Gabinete: 7000,00|Passagens Nacional: 17500,00|Chefia--DEEC para M.R.C.|
 
 
@@ -53,45 +53,48 @@ Nota: Trata-se de uma estimativa, o valor exato depende da cotação do dolar no
 
 ## Planilha 03: Descrição de Bilhetes de Passagem
 
-| Nome do Proposto                   | Departamento | Valor pago   | Soma         |
-| :--------------------------------- | :----------: | :----------: | :----------: |
-| G.Z.                               | DFIS         | 2875,76      | 5751,52      |
-| E.E.F.                             | DFIS         | 2.875,76     |              |
-| ------------                       | ------------ | ------------ | ------------ |
-| S.R.S.                             | DQUIM        | 1803,56      | 4940,91      |
-| F.O.C.R.                           | DQUIM        | 3137,35      |              |
-| ------------                       | ------------ | ------------ | ------------ |
-| J.C.M.                             | DEEC         | 2006,75      | 7749,9       |
-| A.F.S.                             | DEEC         | 2766,71      |              |
-| M.R.C.                             | DEEC         | 2976,51      |              |
+| Nome do Proposto               | Departamento | Valor pago   | Soma         |
+|:------------------------------ | :----------: | :----------: | :----------: |
+| G.Z.                           | DFIS         | 2875,76      | 5751,52      |
+| E.E.F.                         | DFIS         | 2.875,76     |              |
+| ------------                   | ------------ | ------------ | ------------ |
+| S.R.S.                         | DQUIM        | 1803,56      | 4940,91      |
+| F.O.C.R.                       | DQUIM        | 3137,35      |              |
+| ------------                   | ------------ | ------------ | ------------ |
+| J.C.M.                         | DEEC         | 2006,75      | 7749,9       |
+| A.F.S.                         | DEEC         | 2766,71      |              |
+| M.R.C.                         | DEEC         | 2976,51      |              |
+| ------------                   | ------------ | ------------ | ------------ |
+| E.S.V.B.                       | DMAT         | 3886,05      | 3886,05      |
 
 
 ## Planilha 04: Descrição de Diárias
 
-| Nome do Proposto                   | Departamento | Valor pago   | Soma         |
-| :--------------------------------- | :----------: | :----------: | :----------: |
-| G.Z.                               | DFIS         | 2382,20      | 4763,65      |
-| E.E.F.                             | DFIS         | 2381,45      |              |
-| ------------                       | ------------ | ------------ | ------------ |
-| S.R.S.                             | DQUIM        | 2285,74      | 5814,97      |
-| F.O.C.R.                           | DQUIM        | 1774,98      |              |
-| M.J.A.C.                           | DQUIM        | 1754,25      |              |
-| ------------                       | ------------ | ------------ | ------------ |
-| J.C.M.                             | DEEC         | 1655,45      | 5270,05      |
-| A.F.S.                             | DEEC         | 1787,95      |              |
-| M.R.C.                             | DEEC         | 1826,65      |              |
+| Nome do Proposto               | Departamento | Valor pago   | Soma         |
+|:------------------------------ | :----------: | :----------: | :----------: |
+| G.Z.                           | DFIS         | 2382,20      | 4763,65      |
+| E.E.F.                         | DFIS         | 2381,45      |              |
+| ------------                   | ------------ | ------------ | ------------ |
+| S.R.S.                         | DQUIM        | 2285,74      | 5814,97      |
+| F.O.C.R.                       | DQUIM        | 1774,98      |              |
+| M.J.A.C.                       | DQUIM        | 1754,25      |              |
+| ------------                   | ------------ | ------------ | ------------ |
+| J.C.M.                         | DEEC         | 1655,45      | 5270,05      |
+| A.F.S.                         | DEEC         | 1787,95      |              |
+| M.R.C.                         | DEEC         | 1826,65      |              |
+| ------------                   | ------------ | ------------ | ------------ |
+| E.S.V.B.                       | DMAT         | 2.192,15     | 2.192,15     |
 
 
 ## Planilha 05: Descrição de Despesas de Capital
 
-| Item adquirido                     | Departamento | Valor pago   | Soma         |
-| :--------------------------------- | :----------- | :----------: | :----------: |
-| Computador Desktop                 | DEEC         | 4314,00      | 9186,00      |
-| Computador Notebook                | DEEC         | 4872,00      |              |
+| Item adquirido                 | Departamento | Valor pago   | Soma         |
+| :----------------------------- | :----------- | :----------: | :----------: |
+| Computador Desktop             | DEEC         | 4314,00      | 9186,00      |
+| Computador Notebook            | DEEC         | 4872,00      |              |
 
 
  
-
 ## Planilha 06: Créditos (C), Débitos (D) e Saldos (S)
 
 |DESPESA            |DFIS      |DQUIM     |DMAT      |DEE       |DEEC      |DCC       |DAU       |Centro    |
@@ -107,18 +110,17 @@ Nota: Trata-se de uma estimativa, o valor exato depende da cotação do dolar no
 |>                  |          |          |          |          |          |          |          |          |
 |**DESPESA**        |**DFIS**  |**DQUIM** |**DMAT**  |**DEE**   |**DEEC**  |**DCC**   |**DAU**   |**Centro**|
 |Passagens Nac. (C) |14630,40  |11000,00  |14317,00  |7208,00   |17500,00  |16000,00  |8000,00   |8000,00   |
-|Passagens Nac. (D) |5751,52   |4940,91   |0,00      |0,00      |7749,9    |0,00      |0,00      |0,00      |
-|Passagens Nac. (S) |8878,88   |6059,09   |14317,00  |7208,00   |9750,10   |16000,00  |8000,00   |8000,00   |
+|Passagens Nac. (D) |5751,52   |4940,91   |3886,05   |0,00      |7749,9    |0,00      |0,00      |0,00      |
+|Passagens Nac. (S) |8878,88   |6059,09   |10430,95  |7208,00   |9750,10   |16000,00  |8000,00   |8000,00   |
 |>                  |          |          |          |          |          |          |          |          |
 |**DESPESA**        |**DFIS**  |**DQUIM** |**DMAT**  |**DEE**   |**DEEC**  |**DCC**   |**DAU**   |**Centro**|
 |Diárias Nac. (C)   |7315,20   |8000,00   |11000,00  |10812,00  |10500,00  |20000,00  |8000,00   |7353,39   |
-|Diárias Nac. (D)   |4763,65   |5814,97   |0,00      |0,00      |5270,05   |0,00      |0,00      |0,00      |
-|Diárias Nac. (S)   |2551,55   |2185,03   |11000,00  |10812,00  |5229,95   |20000,00  |8000,00   |7353,39   |
+|Diárias Nac. (D)   |4763,65   |5814,97   |2192,15   |0,00      |5270,05   |0,00      |0,00      |0,00      |
+|Diárias Nac. (S)   |2551,55   |2185,03   |8807,85   |10812,00  |5229,95   |20000,00  |8000,00   |7353,39   |
 |>                  |          |          |          |          |          |          |          |          |
 |**DESPESA**        |**DFIS**  |**DQUIM** |**DMAT**  |**DEE**   |**DEEC**  |**DCC**   |**DAU**   |**Centro**|
 |Mat. Capital (C)   |11983,00  |20000,00  |12000,00  |23157,00  |25057,00  |0,00      |13644,00  |5725,00   |
 |Mat. Capital (D)   |0,00      |0,00      |0,00      |0,00      |9.186,00  |0,00      |0,00      |0,00      |
 |Mat. Capital (S)   |11983,00  |20000,00  |12000,00  |23157,00  |15871,00  |0,00      |13644,00  |5725,00   |
-
 
 
